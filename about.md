@@ -7,7 +7,7 @@ A mod for asteria that adds Kasane Teto to menus! (no way)
 - Customizable speed and position for Teto + a soft toggle
 - A way to... kill her? :worried:
 
-# Feedback
+## Feedback
 You can leave your feedback in the Issues tab or by joining my [Discord server](https://discord.com/invite/4vqtjfdhTk)
 
 ## License

@@ -50,5 +50,13 @@
 			"max": 1,
 			"default": 0.5
 		}
+	},
+	"tags": [
+		"joke",
+		"offline"
+	],
+	"links": {
+		"source": "https://github.com/Fryy55/teto-mod",
+		"community": "https://discord.com/invite/4vqtjfdhTk"
 	}
 }
