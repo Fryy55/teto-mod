@@ -23,6 +23,9 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**Crash log**
+If a crash occurs as a result of the bug include a crash log.
+
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows]
  - Version [e.g. 1.0.0]
